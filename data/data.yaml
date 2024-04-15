@@ -1,0 +1,7 @@
+train: /path/to/train/images/
+val: /path/to/val/images/
+test: /path/to/test/images/
+
+nc: 3  # 类别数量
+
+names: ['class1', 'class2', 'class3']

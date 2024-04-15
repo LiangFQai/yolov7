@@ -1,0 +1,4 @@
+train: ./hat_dataset/train.txt
+val: ./hat_dataset/val.txt
+nc: 2
+names: [ 'hat','nohat']

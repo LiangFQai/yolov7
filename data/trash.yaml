@@ -1,0 +1,4 @@
+train: ./my_datasets/train.txt
+val: ./my_datasets/val.txt
+nc: 2
+names: [ '易拉罐','枕头']
