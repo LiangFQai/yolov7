@@ -1,8 +1,11 @@
 # 本fork仓库用于个人学习yolo模型
 2024.04.7 —— 2024.04.15 添加move.py 方便批量移动数据集
 
+/runs/train 里，exp22 是150轮次下（行人是否佩戴安全帽）的训练结果
 
-
+                其余诸如exp21等都可以删去
+                
+安全帽检测器对应的配置文件是/data/hat.yaml 和 /cfg/training/myv7.yaml
 
 
 
