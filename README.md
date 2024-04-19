@@ -1,4 +1,27 @@
+# 本fork仓库用于个人学习yolo模型
+2024.04.7 —— 2024.04.15 添加move.py 方便批量移动数据集
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Official YOLOv7
+
+
 
 Implementation of paper - [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://arxiv.org/abs/2207.02696)
 
