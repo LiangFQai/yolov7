@@ -20,3 +20,4 @@ if image is not None:
     cv2.destroyAllWindows()
 else:
     print("Failed to read image file.")
+
